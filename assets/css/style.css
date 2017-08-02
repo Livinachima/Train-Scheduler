@@ -1,0 +1,54 @@
+body {
+    background: url("../image/background.jpg") no-repeat center center fixed;
+    background-color: #cccccc;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.jumbotron{
+    
+    background-color: #D2691E ;
+    font-family: 'Anton', sans-serif;
+    color:white;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+  text-align: center;
+}
+
+.panel-heading{
+    color:#6b6b6b ;
+    background-color:#191970 !important;
+    font-family: 'Anton', sans-serif;
+}
+
+table {
+   font-family: arial, sans-serif;
+   border-collapse: collapse;
+   width: 100%;
+}
+
+td, th {
+   border: 1px solid blue
+   text-align: left;
+   padding: 8px;
+}
+
+tr:nth-child(even) {
+   background-color: #6b6b6b ;
+}
+
+.panel{
+    border-color: #191970 !important;
+}
+
+#add-train{
+  color:#FFFFFF;
+  background: #191970;
+}
